@@ -27,7 +27,7 @@ Finally, the program should print each logged month with the percentage of lines
 
 ## Task 3
 ###### Launch the logger program and pipe its output to the viewer program.
-
+<br><br>
 
 ## How to submit
 1. Check out the format for submitting your code [here](http://atdevoutreach.viewdocs.io/InfraInternshipChallengeMay2018/CodeChallengeSteps/)
