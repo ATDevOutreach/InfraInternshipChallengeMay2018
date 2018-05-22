@@ -38,8 +38,8 @@ Finally, the program should print each logged month with the percentage of lines
 > See you on the other side, and best of luck!
 
 
-## Slack
+## Join Slack
 In case you have any questions, join our Slack [here](https://slackin-africastalking.now.sh/) and join the #internship-challenge channel.
 
-#### About Africa's Talking Code Challenges
+## About Africa's Talking Code Challenges
 Please read the overview [here.](http://atdevoutreach.viewdocs.io/InfraInternshipChallengeMay2018/)
