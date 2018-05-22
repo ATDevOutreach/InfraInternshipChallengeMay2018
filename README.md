@@ -2,7 +2,7 @@
 ## Due: 23rd 9:00am May or Earlier
 
 
-##### There are two tasks in this challenge, choose between the two. The submission instructions are specified at the bottom of the challenge page.
+##### There are three interdependent tasks in this challenge, complete ALL. The submission instructions are specified at the bottom of the challenge page.
 
 ## Task 1
 ###### This program will be referred to as "logger"
@@ -19,7 +19,7 @@ Write a program that reads lines of test from standard input. The program should
 -  Print "Malformed input" and exit, if the line is not in the form dd/MM/YYYY
 -  Count lines from each month that appears in a line. The program should not count months that do not appear in any line.
 -  Print lines from 0-14th of 2018.
-Finally, the program should print each logged month with the percentage of lines of text from that month in the form:
+Finally, the program should print each logged month with the percentage of lines of text from that month in the form:<br>
    Month: XX%<br>
    Where "Month" refers to the name of that month.<br>
    For example:<br>
@@ -29,7 +29,7 @@ Finally, the program should print each logged month with the percentage of lines
 ###### Launch the logger program and pipe its output to the viewer program.
 
 
-##### How to submit
+## How to submit
 1. Check out the format for submitting your code [here](http://atdevoutreach.viewdocs.io/InfraInternshipChallengeMay2018/CodeChallengeSteps/)
 
 2.  Make sure when creating a branch to use your correct phone Number, as this is what we will use to get back to you.
